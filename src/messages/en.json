@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "app": "بصير App",
+    "volunteer": "Volunteer",
+    "community": "Community",
+    "contact": "Contact",
+    "requestHelp": "Request Help"
+  },
+  "hero": {
+    "badge": "First of its kind in the Middle East",
+    "title": "Your Vision,",
+    "titleAccent": "Our Mission",
+    "subtitle": "A national digital platform empowering visually impaired individuals in Qatar with access to services, guidance, and human connection — anytime, anywhere.",
+    "cta": "Request Help Now",
+    "learnMore": "Explore Services"
+  },
+  "stats": {
+    "users": "6,000+",
+    "usersLabel": "Registered Users",
+    "volunteers": "500+",
+    "volunteersLabel": "Active Volunteers",
+    "sessions": "10,000+",
+    "sessionsLabel": "Sessions Completed",
+    "countries": "22",
+    "countriesLabel": "Arab Countries Served"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "12 core digital services — accessible 24/7 in Arabic and English",
+    "list": {
+      "video": { "title": "Real-Time Video Assistance", "desc": "Connect with a trained volunteer via video call in under 60 seconds" },
+      "docs": { "title": "Document Reading", "desc": "Volunteers read letters, forms, contracts and menus clearly and accurately" },
+      "nav": { "title": "Navigation & Orientation", "desc": "Live video guidance while navigating streets, buildings and transit" },
+      "medical": { "title": "Medical Information", "desc": "Prescriptions and dosage instructions read accurately and clearly" },
+      "edu": { "title": "Educational Resources", "desc": "Audio and Braille library plus study support for all ages" },
+      "legal": { "title": "Legal Rights Guidance", "desc": "Plain-language explanation of disability rights and legal procedures" },
+      "sos": { "title": "Emergency SOS", "desc": "Instant distress button that alerts your pre-set emergency contact" },
+      "volunteer": { "title": "Volunteer Portal", "desc": "Smart algorithm matches you with the best-rated specialist volunteer" },
+      "events": { "title": "Community Calendar", "desc": "Events, support sessions and activities for the blind community in Qatar" },
+      "jobs": { "title": "Employment Board", "desc": "Job opportunities and vocational training suited for the visually impaired" },
+      "braille": { "title": "Braille & Audio Learning", "desc": "Interactive lessons for Braille and screen-reader skills" },
+      "gov": { "title": "Government Services", "desc": "Direct access to Metrash2, Hukoomi, and the National Human Rights Committee" }
+    }
+  },
+  "app": {
+    "badge": "Exclusive Announcement",
+    "title": "بصير App",
+    "subtitle": "First of its kind in the Middle East",
+    "desc": "A revolutionary mobile app connecting visually impaired individuals with live human volunteers for real-time video guidance — wherever they are, whenever they need it.",
+    "features": [
+      "One-tap SOS video call request",
+      "Full voice-only navigation",
+      "Average connection time under 60 seconds",
+      "Full Arabic and English support",
+      "Compatible with TalkBack and VoiceOver",
+      "End-to-end encrypted sessions"
+    ],
+    "download": "Download App",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "coming": "Launching Q1 2027"
+  },
+  "privacy": {
+    "title": "Privacy & Protection",
+    "subtitle": "Your safety is our absolute priority",
+    "items": [
+      { "title": "End-to-End Encryption", "desc": "E2E encryption for all video and audio sessions. Content is deleted immediately after the session ends." },
+      { "title": "Verified Volunteers", "desc": "All volunteers are verified, trained, and rated after every session." },
+      { "title": "Panic Button", "desc": "Instantly end the session and alert your pre-designated emergency contact." },
+      { "title": "Legal Compliance", "desc": "Compliant with Qatar Personal Data Protection Law No. 13 of 2016 and ISO/IEC 27001." }
+    ]
+  },
+  "vision": {
+    "title": "Why بصير?",
+    "subtitle": "Qatar National Vision 2030 demands inclusive digital services — بصير delivers them",
+    "items": [
+      { "title": "Vision 2030", "desc": "Aligned with the human development pillar of Qatar National Vision 2030." },
+      { "title": "World Cup Legacy", "desc": "Qatar pledged permanent inclusive infrastructure — بصير embodies that commitment." },
+      { "title": "Arab Leadership", "desc": "The first unified digital platform for the blind in the Arab world." },
+      { "title": "UN Convention", "desc": "Fully aligned with the UN Convention on Rights of Persons with Disabilities (CRPD)." }
+    ]
+  },
+  "cta": {
+    "title": "Join the Ecosystem",
+    "subtitle": "Whether you need help or want to give it — بصير is your platform",
+    "getHelp": "Get Help",
+    "volunteer": "Become a Volunteer"
+  },
+  "footer": {
+    "tagline": "National Platform for Blind Empowerment",
+    "rights": "All rights reserved",
+    "links": {
+      "privacy": "Privacy Policy",
+      "accessibility": "Accessibility",
+      "terms": "Terms & Conditions",
+      "contact": "Contact Us"
+    },
+    "contact": {
+      "email": "info@baseer.qa",
+      "website": "www.baseer.qa",
+      "gov": "Ministry of Social Development and Family, State of Qatar"
+    }
+  },
+  "volunteer": {
+    "title": "Volunteer with بصير",
+    "subtitle": "Help a blind individual and add a human dimension to your life",
+    "howTitle": "How does the program work?",
+    "steps": [
+      { "title": "Register & Train", "desc": "Sign up as a volunteer and complete the free online training in under 2 hours." },
+      { "title": "Set Availability", "desc": "Toggle your availability in the app and receive requests during your free time." },
+      { "title": "Accept Request", "desc": "Receive a help request notification and accept within 15 seconds." },
+      { "title": "Provide Help", "desc": "Start the video call and guide the user based on their needs." }
+    ],
+    "specialties": "Available Specialties",
+    "specialtyList": ["Navigation & Mobility", "Document Reading", "Medical Information", "Educational Support", "Legal Guidance", "Psychosocial Support"],
+    "joinBtn": "Register as Volunteer"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "name": "Full Name",
+    "email": "Email Address",
+    "message": "Your Message",
+    "send": "Send Message",
+    "address": "Ministry of Social Development and Family, Doha, Qatar",
+    "phone": "+974 4000 0000"
+  }
+}
