@@ -77,7 +77,7 @@ export default function Footer() {
 
             {/* Gov logos placeholder */}
             <div className="mt-6 flex flex-wrap gap-2">
-              {["WCAG 2.1 AA", "ISO 27001", "Qatar 2030"].map((badge) => (
+              {["WCAG 2.1 AA", "ISO 27001", "Vision 2030"].map((badge) => (
                 <span
                   key={badge}
                   className="text-xs px-2.5 py-1 rounded-full border border-white/20 text-white/60"

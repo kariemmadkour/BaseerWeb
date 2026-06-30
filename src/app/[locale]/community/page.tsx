@@ -13,8 +13,8 @@ export default function CommunityPage() {
       Icon: Calendar,
       title: isAr ? "تقويم الفعاليات" : "Events Calendar",
       desc: isAr
-        ? "فعاليات وورش عمل وجلسات دعم مجتمعي مخصصة لذوي الإعاقة البصرية في قطر"
-        : "Events, workshops and peer support sessions for the visually impaired community in Qatar",
+        ? "فعاليات وورش عمل وجلسات دعم مجتمعي مخصصة لذوي الإعاقة البصرية"
+        : "Events, workshops and peer support sessions for the visually impaired community",
       events: isAr
         ? ["ورشة برايل — 5 يوليو","يوم المتطوع — 10 يوليو","جلسة دعم نفسي — 15 يوليو"]
         : ["Braille Workshop — July 5","Volunteer Day — July 10","Peer Support Session — July 15"],

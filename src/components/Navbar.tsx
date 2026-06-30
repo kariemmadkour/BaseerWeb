@@ -3,6 +3,7 @@ import { useTranslations, useLocale } from "next-intl";
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import { Menu, X, Eye } from "lucide-react";
+import GoogleLoginButton from "./GoogleLoginButton";
 
 export default function Navbar() {
   const t = useTranslations("nav");
@@ -81,6 +82,7 @@ export default function Navbar() {
           >
             {otherLabel}
           </Link>
+          <GoogleLoginButton />
           <Link
             href={`/${locale}/contact`}
             className="bg-[#C8972A] hover:bg-[#b8871a] text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors"

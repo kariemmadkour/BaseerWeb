@@ -62,7 +62,7 @@ export default function ContactPage() {
                 <div className="mt-10 rounded-2xl overflow-hidden bg-[#8B1A2F]/5 border border-[#8B1A2F]/10 h-48 flex items-center justify-center">
                   <div className="text-center text-gray-400">
                     <MapPin size={32} className="mx-auto mb-2 text-[#8B1A2F]/40" />
-                    <p className="text-sm">{isAr ? "الدوحة، قطر" : "Doha, Qatar"}</p>
+                    <p className="text-sm">{isAr ? "الدوحة" : "Doha"}</p>
                   </div>
                 </div>
               </div>

@@ -69,7 +69,7 @@ export default function HeroSection() {
 
             {/* Trust badges */}
             <div className={`mt-10 flex flex-wrap gap-4 ${isAr ? "justify-end" : ""}`}>
-              {["WCAG 2.1 AA", "E2E Encrypted", "ISO 27001", "Qatar Vision 2030"].map((b) => (
+              {["WCAG 2.1 AA", "E2E Encrypted", "ISO 27001", "Vision 2030"].map((b) => (
                 <span
                   key={b}
                   className="text-xs text-white/50 border border-white/15 px-3 py-1.5 rounded-full"

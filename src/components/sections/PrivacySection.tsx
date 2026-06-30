@@ -45,7 +45,7 @@ export default function PrivacySection() {
         {/* Compliance badges */}
         <div className="mt-12 flex flex-wrap justify-center gap-4">
           {[
-            "Qatar Law No. 13/2016",
+            "Data Protection Law",
             "UN CRPD",
             "ISO/IEC 27001",
             "WCAG 2.1 AA",

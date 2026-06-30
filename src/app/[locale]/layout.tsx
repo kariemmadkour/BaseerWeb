@@ -8,8 +8,8 @@ import "../globals.css";
 export const metadata: Metadata = {
   title: "بصير | Baseer — منصة وطنية لتمكين المكفوفين",
   description:
-    "بصير — المنصة الوطنية الرقمية الأولى من نوعها في الشرق الأوسط لتمكين المكفوفين في دولة قطر",
-  keywords: ["بصير", "Baseer", "blind", "accessibility", "Qatar", "قطر", "مكفوفين"],
+    "بصير — المنصة الوطنية الرقمية الأولى من نوعها في الشرق الأوسط لتمكين المكفوفين",
+  keywords: ["بصير", "Baseer", "blind", "accessibility", "مكفوفين", "إمكانية الوصول"],
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
