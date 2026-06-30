@@ -10,6 +10,15 @@ export const metadata: Metadata = {
   description:
     "بصير — المنصة الوطنية الرقمية الأولى من نوعها في الشرق الأوسط لتمكين المكفوفين في دولة قطر",
   keywords: ["بصير", "Baseer", "blind", "accessibility", "Qatar", "قطر", "مكفوفين"],
+  manifest: "/manifest.json",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "black-translucent",
+    title: "بصير",
+  },
+  other: {
+    "mobile-web-app-capable": "yes",
+  },
 };
 
 export default async function LocaleLayout({
@@ -29,8 +38,13 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={dir}>
       <head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icons/icon-192.png" />
+        <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+        <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#8B1A2F" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="apple-mobile-web-app-title" content="بصير" />
       </head>
       <body className="min-h-screen flex flex-col">
         <NextIntlClientProvider messages={messages}>
