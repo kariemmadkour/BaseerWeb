@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "qa.baseer.app",
-    "sha256_cert_fingerprints": ["PLACEHOLDER_REPLACE_WITH_PWABUILDER_SHA256"]
+    "package_name": "app.vercel.baseer_web.twa",
+    "sha256_cert_fingerprints": ["8B:1F:B5:F0:1E:74:84:CA:10:59:01:2B:B9:59:84:3B:99:16:3D:57:9E:C5:3E:7C:E2:D7:33:60:B2:B3:CC:37"]
   }
 }]
